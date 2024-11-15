@@ -298,6 +298,22 @@ public class MainActivity extends AppCompatActivity {
         android:toYScale="0.0" />
 </set>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ## OUTPUT:
